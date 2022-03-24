@@ -1,0 +1,5 @@
+git init
+git add task.ipynb
+git commit -m "notebook first commit"
+git remote add origin https://github.com/{Rishita-Athiyannan}/task.git
+git push -u origin master
